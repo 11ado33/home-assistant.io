@@ -19,7 +19,7 @@ ha_quality_scale: bronze
 
 The **inkVision** {% term integration %} connects the [inkVision](https://inkvision.eu) Atmos Smart Clock to Home Assistant. The Atmos Smart Clock is a desk clock with an LED matrix display and an environment sensor that measures temperature, humidity, air pressure, and indoor air quality.
 
-Home Assistant talks to the clock directly on your local network. The clock pushes new readings as they happen, so no cloud account is needed.
+Home Assistant talks to the clock directly on your local network. The clock pushes its readings to Home Assistant, and no cloud account is needed.
 
 ## Use cases
 
